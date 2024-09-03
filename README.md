@@ -49,4 +49,10 @@ para esto usamos la característica **Github Pages**
 
 # Crear un proyecto KANBAN
 
+Crear las actividades o tareas a partir del feedback o revisión.
+
 ![alt text](screenshots/image10.png)
+
+## Hacerlo público
+
+![alt text](screenshots/image11.png)
