@@ -46,3 +46,7 @@ Es la forma en git de publicar estos cambios en el repositrio, en este caso dir√
 para esto usamos la caracter√≠stica **Github Pages**
 
 ![alt text](screenshots/image9.png)
+
+# Crear un proyecto KANBAN
+
+![alt text](screenshots/image10.png)
