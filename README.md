@@ -15,12 +15,12 @@ https://github.com/new
 ![alt text](screenshots/image.png)
 
 ### Crear archivo index.html
-![alt text](image2.png)
+![alt text](screenshots/image2.png)
 
 
 ### Crear código base HTML
 Se escribe signo de admiración (!) y aceptamos la sugerencia Emmet que nos da el editor de código.
-![alt text](image3.png)
+![alt text](screenshots/image3.png)
 
 ### Pegar el código html que viene del Figma
-![alt text](image4.png)
+![alt text](screenshots/image4.png)
